@@ -1,2 +1,1 @@
-Hello, Hexlet!
-I'm working with git.
+No code No pain

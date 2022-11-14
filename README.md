@@ -1,1 +1,2 @@
-Hello, Hexlet! How are you?
+Hello, Hexlet!
+I'm working with git.
